@@ -1,0 +1,19 @@
+{
+  "name": "contextmenu-react",
+  "version": "0.0.1",
+  "description": "A simple context menu",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc --outDir ./dist"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^18.2.20",
+    "react": "^18.2.0",
+    "typescript": "^5.1.6"
+  },
+  "dependencies": {
+    "react-dom": "^18.2.0"
+  }
+}
